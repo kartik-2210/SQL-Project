@@ -47,7 +47,7 @@ Stores all book-related information including pricing, genre, publication detail
 ---
 
 ### 2. Customers
-- <a href="[https://github.com/kartik-2210/SQL-Project/blob/main/Books.csv](https://github.com/kartik-2210/SQL-Project/blob/main/Customers.csv)">Customers Dataset View</a>
+- <a href="https://github.com/kartik-2210/SQL-Project/blob/main/Customers.csv">Customers Dataset View</a>
 
 Contains customer information used for order tracking and customer analysis.
 
@@ -63,7 +63,7 @@ Contains customer information used for order tracking and customer analysis.
 ---
 
 ### 3. Orders
-- <a href="[https://github.com/kartik-2210/SQL-Project/blob/main/Books.csv](https://github.com/kartik-2210/SQL-Project/blob/main/Orders.csv)">Orders Dataset View</a>
+- <a href="https://github.com/kartik-2210/SQL-Project/blob/main/Orders.csv">Orders Dataset View</a>
 
 Stores transactional order data and connects customers with books using foreign keys.
 
